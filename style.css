@@ -1,0 +1,52 @@
+.Person {
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+.Date {
+    background-color: crimson;
+    border-radius: 10px;
+}
+.Organisation {
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+.Game {
+    background-color: darkviolet;
+    border-radius: 10px;
+}
+.Location {
+    background-color: orange;
+    border-radius: 10px;
+}
+.model {
+    background-color: blue;
+    border-radius: 10px;
+}
+.Season {
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.Episode {
+    background-color: burlywood;
+    border-radius: 10px;
+}
+.Brend {
+    background-color: brown;
+    border-radius: 10px;
+}
+.Team {
+    background-color: aqua;
+    border-radius: 10px;
+}
+.Legue {
+    background-color: darkgray;
+    border-radius: 10px;
+}
+.Sport {
+    background-color: fuchsia;
+    border-radius: 10px;
+}
+.Project {
+    background-color: darkgreen;
+    border-radius: 10px;
+}

@@ -1,0 +1,11 @@
+{"manifest_version": 3,
+  "name": "RuTube NER","version": "1.0.1",
+  "content_scripts": [{
+    "matches": ["https://rutube.ru/*"],
+    "js":["script.js"],
+    "css": ["style.css"],
+    "host_permissions": [
+      "https://78e8-95-29-104-171.ngrok.io/*", "https://rutube.ru/*"
+    ]
+  }]
+}
